@@ -10,11 +10,14 @@
   },
   "dependencies": {
     "clsx": "^2.1.1",
+    "deps": "^1.0.0",
     "motion": "^12.23.3",
     "next": "15.3.5",
+    "peer": "^1.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "tailwind": "^4.0.0",
+    "simplex-noise": "^4.0.3",
+    "tailwind": "^2.3.1",
     "tailwind-merge": "^3.3.1"
   },
   "devDependencies": {
