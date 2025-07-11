@@ -2,101 +2,111 @@
   {
     "id": 1,
     "title": "Beginner Guitar Essentials",
+    "slug":"beginner-guitar-essentials",
     "description": "Learn the basics of acoustic and electric guitar playing, including chords, strumming, and beginner songs.",
     "duration": "6 weeks",
     "level": "Beginner",
     "format": "Online",
     "price":249,
-    "isFeatured": "true"
+    "isFeatured": true
   },
   {
     "id": 2,
     "title": "Piano for Beginners",
+    "slug":"piano-for-beginners",
     "description": "A structured course for newcomers to piano, covering music theory, basic techniques, and simple compositions.",
     "duration": "8 weeks",
     "level": "Beginner",
     "format": "In-person",
     "price":349,
-    "isFeatured": "true"
+    "isFeatured": true
   },
   {
     "id": 3,
     "title": "Intermediate Music Theory",
+    "slug":"intermediate-music-theory",
     "description": "Explore scales, chord progressions, harmonies, and analysis techniques used in modern and classical music.",
     "duration": "4 weeks",
     "level": "Intermediate",
     "format": "Online",
     "price":239,
-    "isFeatured": "false"
+    "isFeatured": false
   },
   {
     "id": 4,
     "title": "Music Production with Ableton Live",
+    "slug":"music-production-with-ableton-live",
     "description": "Master the fundamentals of digital audio production using Ableton Live. Includes mixing, effects, and arrangement.",
     "duration": "10 weeks",
     "level": "Intermediate",
     "format": "Online",
     "price":269,
-    "isFeatured": "true"
+    "isFeatured": true
   },
   {
     "id": 5,
     "title": "Advanced Vocal Training",
+    "slug":"advanced-vocal-training",
     "description": "For experienced singers looking to refine technique, expand range, and improve performance skills.",
     "duration": "6 weeks",
     "level": "Advanced",
     "format": "In-person",
     "price":219,
-    "isFeatured": "true"
+    "isFeatured": true
   },
   {
     "id": 6,
     "title": "Drumming Basics",
+    "slug":"drumming-basics",
     "description": "Introduction to rhythm, drumming patterns, and techniques for beginners using a standard drum kit.",
     "duration": "5 weeks",
     "level": "Beginner",
     "format": "Online",
     "price":499,
-    "isFeatured": "false"
+    "isFeatured": false
   },
   {
     "id": 7,
     "title": "Jazz Improvisation",
+    "slug":"jazz-improvisation",
     "description": "Learn the art of improvisation through jazz standards, scales, and theory. Ideal for instrumentalists and vocalists.",
     "duration": "8 weeks",
     "level": "Advanced",
     "format": "Online",
     "price":299,
-    "isFeatured": "true"
+    "isFeatured": true
   },
   {
     "id": 8,
     "title": "Electronic Music Composition",
+    "slug":"electronic-music-composition",
     "description": "Compose original electronic tracks using DAWs, synthesizers, and audio plugins.",
     "duration": "12 weeks",
     "level": "Intermediate",
     "format": "Online",
     "price":449,
-    "isFeatured": "false"
+    "isFeatured": false
   },
   {
     "id": 9,
     "title": "Sight Singing and Ear Training",
+    "slug":"sight-singing-and-ear-training",
     "description": "Develop the ability to read music at sight and identify intervals, melodies, and rhythms by ear.",
     "duration": "6 weeks",
     "level": "Intermediate",
     "format": "In-person",
     "price":599,
-    "isFeatured": "true"
+    "isFeatured": true
   },
   {
     "id": 10,
     "title": "Film Scoring Fundamentals",
+    "slug":"film-scoring-fundamentals",
     "description": "Understand the process of scoring music for film and media, from spotting to composing and syncing audio.",
     "duration": "10 weeks",
     "level": "Advanced",
     "format": "Online",
     "price":699,
-    "isFeatured": "false"
+    "isFeatured": false
   }
 ]}
