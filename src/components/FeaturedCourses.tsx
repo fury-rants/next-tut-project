@@ -17,7 +17,7 @@ interface Course{
 // username = 1; // it shows error due to number assign in string type defined
 
 function FeaturedCourses () {
-    const featuredCourses = courseData.courses.filter((course:Course) => course.isFeatured)
+    const featuredCourses = courseData.courses?.filter((course:Course) => course.isFeatured === true )|| []
     return(
         <div className="py-12 bg-gray-900">
             <div>
@@ -34,7 +34,9 @@ function FeaturedCourses () {
             <div className="mt-10">
                 <div className="grid grid-col-1 sm:grid-cols-2 lg:grid-cols-3 gap-8 justify-center">
                     {featuredCourses.map((course:Course) => (
-                        <p>test</p>
+                        <div key={course.id} className="flex justify-center">
+                            <p>test</p>
+                        </div>
                     ))}
                 </div>
             </div>

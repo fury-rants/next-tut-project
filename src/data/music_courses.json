@@ -1,4 +1,4 @@
-[
+{ "courses":[
   {
     "id": 1,
     "title": "Beginner Guitar Essentials",
@@ -99,4 +99,4 @@
     "price":699,
     "isFeatured": "false"
   }
-]
+]}
